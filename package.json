@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/lihao0923/ts_demo1#readme",
   "devDependencies": {
+    "@babel/core": "^7.18.10",
     "@babel/preset-env": "^7.18.10",
     "babel": "^6.23.0",
     "babel-loader": "^8.2.5",
