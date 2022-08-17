@@ -27,7 +27,7 @@ class Snake {
 
 
     addBody() {
-        this.element.insertAdjacentElement('beforeend', '<div></div>');
+        this.element.insertAdjacentHTML('beforeend', '<div></div>');
     }
 }
 
